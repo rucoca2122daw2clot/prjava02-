@@ -1,0 +1,23 @@
+Comandes:
+1.- git clone “url”
+5.- git checkout main 
+7.- git checkout branca00
+10b.- git merge branca00 
+12.- git push 
+14a.- git push -u origin branca00
+
+6.- Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?
+
+Perque al cambiar de branca el arxiu s’actualitza a la versió d’aquella branca la qual no tenia la línia afegida.
+
+7.- Torna a la branca branca00. Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?.
+
+Si, perquè al torna a la branca00 esta la versió 1.1 la qual te la modificació 
+
+12 c) Comprova que només s'ha actualitzat la branca main únicament. Per què?.
+
+Perque sa fusionat amb la branca00
+
+14 c) A quants commits de distància (commit ahead) està de la branca main? 
+
+This branch is 1 commit ahead of main.
